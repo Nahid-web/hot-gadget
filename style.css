@@ -1,0 +1,12 @@
+@media (max-width: 576px) {
+    .details {
+        text-align: center;
+        
+    }
+
+    .col-3 {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
